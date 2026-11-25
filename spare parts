@@ -1,0 +1,20 @@
+<html>
+<head>
+<title> spare shop </title>
+</head>
+<body>
+<h1> welcome to spare parts shop</h1>
+<h2> All types of spare parts available</h2>
+<h2>our spare parts<//h2>
+<h3>1.ENGINE</h3>
+  <img src="C:\24sbcs067\engine.jpg">     
+    <p>High-quality vehicle engines.</p>
+<h3>2.TYRES</h3>
+  <img src="C:\24sbcs067\typre2.png">
+<p>High-quality vehicle tyres.</p>
+<h3>3.TOOLS</h3>
+     <img src ="C:\24sbcs067\tools.jpg">
+<p>High-quality vehicle tools</p>
+         
+</body>
+</html>
